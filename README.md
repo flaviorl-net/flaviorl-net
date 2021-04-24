@@ -11,10 +11,10 @@ Você pode me encontrar também no meu Linkedin: [Flavio Lima](https://www.linke
 ```javascript
 let name = 'Flavio'
 let lastname = 'Ribeiro Lima'
-let birthday = '1984/02/04'
+let dateBirth = '1984/02/04'
 let address = 'Brasil - São Paulo/SP'
 
-if (IsBirthday(birthday))
+if (IsBirthday(dateBirth))
 {
   console.log(`Happy birthday to ${name}!!`);
   SendGiftTo(name, address);
