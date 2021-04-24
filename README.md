@@ -2,7 +2,7 @@
 
 Trabalho com desenvolvimento de software, algumas linguagens e tecnologias que utilizo e conheço são... C#, Javascript, Typescript, Python, .NetCore, .Net, Node, Docker, MongoDB, Sql-Server, Redis, RabbitMQ e mais algumas outras.
 
-Sou apaixonado por boas práticas, arquitetura de sistemas e soluções. :heart: SOLID, DDD, Design Patterns, Microsservices, TDD. :heart: são algumas coisas que amo.
+Sou apaixonado por boas práticas, arquitetura de sistemas e soluções. SOLID, DDD, Design Patterns, Microsservices, TDD. são algumas coisas em que eu acredito.
 
 Meus grandes objetivos na carreira são criar e tornar sistemas com alta performance, fácil manutenção e evolução, escalavél e rastreável.
 
